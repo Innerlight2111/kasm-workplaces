@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'kasm-workplaces',
+    description: 'The househill custom workplace registry.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://github.com/Innerlight2111/kasm-workplaces/',
+    contactUrl: 'https://github.com/Innerlight2111/kasm-workplaces/support',
   },
   reactStrictMode: true,
   swcMinify: true,
